@@ -21,3 +21,8 @@ It then displays the result of each operation clearly to the user.
 🙋‍♂️ Task 2: Personalized Greeting
 Description:
 This script takes the user's first name and last name as input, combines them into a full name, and prints a personalized greeting message. It demonstrates basic string concatenation and output formatting.
+
+## Output
+
+TASK !
+
